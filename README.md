@@ -1,12 +1,4 @@
 
-<!-- RAINBOW LINE TOP -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-<!-- GIF HEADER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
-
-<h1 align="center">Cahya Keusma</h1>
-
 ### *Hi there* 👋
 <h5 align="center"><i>Saya merupakan mahasiswa tingkat III dari kampus ITB STIKOM Bali</h5>
 
