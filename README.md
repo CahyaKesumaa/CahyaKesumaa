@@ -1,6 +1,3 @@
-
-
-
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <!-- GIF HEADER -->
@@ -8,7 +5,7 @@
 
 ### *Hi there* 👋
 <h1>Cahya Kesuma</h1>
-<h5 align="center"><i>Saya merupakan mahasiswa tingkat III dari kampus ITB STIKOM Bali</h5>
+<h3 align="center"><i>Saya merupakan mahasiswa tingkat III dari kampus ITB STIKOM Bali</h3>
 
 <!-- VISTAS DEL PERFIL -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CahyaKesumaa&label=Profile%20views&color=0e75b6&style=flat" alt="CahyaKesumaa" /> </p>
